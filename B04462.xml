@@ -1,0 +1,235 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The manner of the impeachment of the 12 bishops, accused of high treason. For preferring a petition and making a protestation to the subverting of the fundamentall lawes, and being of parliaments. Whereunto is added the said petition and remonstrance of the saids bishops.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04462</idno>
+            <idno type="STC">Wing M475</idno>
+            <idno type="STC">ESTC R180288</idno>
+            <idno type="EEBO-CITATION">52612199</idno>
+            <idno type="OCLC">ocm 52612199</idno>
+            <idno type="VID">179502</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04462)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179502)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2790:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The manner of the impeachment of the 12 bishops, accused of high treason. For preferring a petition and making a protestation to the subverting of the fundamentall lawes, and being of parliaments. Whereunto is added the said petition and remonstrance of the saids bishops.</title>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.,</publisher>
+                  <pubPlace>Printed at London ;</pubPlace>
+                  <pubPlace>and re-printed at Edinburgh :</pubPlace>
+                  <date>1641]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Date of publication from Wing.</note>
+                  <note>Page 4 misnumbered "3".</note>
+                  <note>Ms. notes precede text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Bishops --  Temporal power --  Early works to 1800.</term>
+               <term>Treason --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1625-1649 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:179502:1" rendition="simple:additions"/>
+            <pb facs="tcp:179502:1"/>
+            <pb facs="tcp:179502:2"/>
+            <pb facs="tcp:179502:2" rendition="simple:additions"/>
+            <p>
+               <add>The Manner of Impeachment of the Twelve Bishops<lb/>
+1641</add>
+            </p>
+            <p>
+               <pb facs="tcp:179502:3" rendition="simple:additions"/>
+               <list>
+                  <head>
+                     <add>The 12 Bishops</add>
+                  </head>
+                  <item>
+                     <add>Jo. Abp of York</add>
+                  </item>
+                  <item>
+                     <add>Ths. Bp of Durham</add>
+                  </item>
+                  <item>
+                     <add>Joseph Bp of Norwich</add>
+                  </item>
+                  <item>
+                     <add>Rob. B. of Coventry &amp; Litchfield</add>
+                  </item>
+                  <item>
+                     <add>John B. of St. Asaph</add>
+                  </item>
+                  <item>
+                     <add>W<hi rend="sup">m</hi> B. of Bath &amp; Wells</add>
+                  </item>
+                  <item>
+                     <add>Geo. B. of Hereford</add>
+                  </item>
+                  <item>
+                     <add>Matthew B. of Ely</add>
+                  </item>
+                  <item>
+                     <add>Rob<hi rend="sup">t</hi>. B. of Oxford</add>
+                  </item>
+                  <item>
+                     <add>Godfrey B. of Glocester</add>
+                  </item>
+                  <item>
+                     <add>John B. of Peterborough</add>
+                  </item>
+                  <item>
+                     <add>Morgan B. of Llandaff</add>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <pb facs="tcp:179502:3"/>
+The manner of the Impeachment of the 12 Biſhops, accuſed of High Treaſon.</p>
+            <p>For preferring a Petition and making a Proteſtation to the ſubverting of the Fundamentall Lawes, and being of Parliaments.</p>
+            <p>Wherunto is added the ſaid petition and Remonſtrance of the ſaids Biſhops.</p>
+            <p>Printed at <hi>London,</hi> and re-printed at <hi>Edinburgh.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="historical_account">
+            <pb facs="tcp:179502:4"/>
+            <pb n="1" facs="tcp:179502:4"/>
+            <p>THe Houſe of Lords was pleaſed on the 10. of December, to ſend a meſſage to the Houſe of Commons by Sir <hi>John Bankes,</hi> and Judge <hi>Reeves,</hi> to deſire a preſent conference by a Committee of both Houſes, touching matters of dan<g ref="char:EOLhyphen"/>gerous and high conſequence.</p>
+            <p>And at the conference, the Lord Keeper in the name of the Houſe of Peeres delivered, as followeth.</p>
+            <p>That this Petition and Proteſtation of the twelve Biſhops, containing matter of high and dangerous con<g ref="char:EOLhyphen"/>ſequence, and ſuch as my Lords are very ſenſible of, and ſuch as require a ſpeedy and ſudden reſolution: It extending to the deep intrinching upon the funda<g ref="char:EOLhyphen"/>mentall priviledges and being of Parliaments. There<g ref="char:EOLhyphen"/>fore the Lords have thought fit, that this matter con<g ref="char:EOLhyphen"/>cerning the whole Parliament may be communicated to the Houſe of Commons; it being a thing of ſo great and ſo generall concernment.</p>
+            <p>This being thus communicated to the Houſe of Commons, they came to this reſolution, to accuſe theſe twelve Biſhops of high Treaſon, for indeavour<g ref="char:EOLhyphen"/>ing to ſubvert the fundamentall Laws and being of Parliaments.</p>
+            <p>
+               <pb n="2" facs="tcp:179502:5" rendition="simple:additions"/>
+And Maſter <hi>Glynne</hi> was ordered to go to the Lords, and at their barre in the name of the Houſe of Com<g ref="char:EOLhyphen"/>mons and all the Commons of England, to accuſe theſe twelve prelats of high Treaſon, for indeavour<g ref="char:EOLhyphen"/>ing to ſubvert the fundamentall Lawes of the Realme, and the very being of Parliaments manifeſted by pre<g ref="char:EOLhyphen"/>ferring that Petition and Proteſtation: and to deſire the Lords that they may bee forthwith ſequeſtred from Parliament, and put into ſafe cuſtody, and that their Lordſhips would appoint a ſpeedy day for the Commons to charge them, and they to anſwer for that, the Commons were ready to make good their charge.</p>
+            <p>He was further ordered, to give the Lords thanks for communicating this Petition, with ſo much affection and ſpeed, and for expreſſing their ſenſe thereof.</p>
+            <p>After Maſter <hi>Glynne</hi> had delivered this at the barre, the Lords ſent the Black Rod inſtantly to finde out theſe Biſhops and apprehend them: and by eight of the clock at night they were all taken and brought upon their knees to the barre; and ten of them committed to the Towre, and two (in regard of their age, and in<g ref="char:EOLhyphen"/>deed of the worthy parts of one of them, the learned Biſhop of <hi>Durham</hi>) were committed to the Blak Rod.</p>
+         </div>
+         <div type="petition">
+            <pb n="3" facs="tcp:179502:5"/>
+            <head>To the Kings moſt excellent Majeſty, and the Lords and Peeres now aſſembled in Parliament.</head>
+            <head type="sub">The humble Petition and Proteſtation of all the Biſhops and Prelates now called by his Majeſties Writs, to attend the Parliament and preſent about London and Weſtminſter for that ſervice.</head>
+            <p>THat whereas the Petitioners are called up by ſeverall and reſpective Writs, and under great penulties, to attend in Parliament: and have a clear and undubitate right to Vote in Bills, and other matters whatſoever debetable in Parliament, by the ancient cuſtomes, Laws, and ſtatutes of this Realme, and ought to be protected by your Majeſty, quietly to attend and proſecute that great ſervice.</p>
+            <p>They humbly remonſtrate and proteſt before God, your Majeſtie, and the noble Lords and Peeres now aſ<g ref="char:EOLhyphen"/>ſembled in Parliament; that as they have an undubi<g ref="char:EOLhyphen"/>tate right to ſit and vote in the Houſe of the Lords, ſo are they (if they be protected from force &amp; violence) moſt ready and willing to performe their duties ac<g ref="char:EOLhyphen"/>cordingly. And that they doe abhominate all actions or opinions tending to Poperie, and the maintenance thereof: As alſo, all propention and inclination to
+<pb n="3" facs="tcp:179502:6"/>any malignant party, or any other ſect or party what<g ref="char:EOLhyphen"/>ſoever, to the which, their own reaſons, and conſcien<g ref="char:EOLhyphen"/>ces, ſhall not move them to adhere.</p>
+            <p>But whereas they have been at ſeverall times vio<g ref="char:EOLhyphen"/>lently manaſſed, affronted, and aſſaulted by multi<g ref="char:EOLhyphen"/>tudes of people, in their coming to perform their ſer<g ref="char:EOLhyphen"/>vices in that honourable Houſe, and lately chaſed a<g ref="char:EOLhyphen"/>way and put in danger of their lives, and can finde no redreſſe for protection, upon ſundry complaints made to both Houſes in theſe particulars.</p>
+            <p>They likewiſe humbly proteſt before your Majeſty, and the noble Houſe of Peeres, that ſaving unto them<g ref="char:EOLhyphen"/>ſelves all their rights and interiſts of ſitting and voting in that houſe at other times. They dare not ſit or vote in the Houſe of Peeres, untill your Majeſty ſhall fur<g ref="char:EOLhyphen"/>ther ſecure them from all affronts, indignities, and dan<g ref="char:EOLhyphen"/>gers in the premiſſes.</p>
+            <p>Laſtly, whereas their fears are not built upon fan<g ref="char:EOLhyphen"/>taſies or conceits, but upon ſuch grounds and objects as may well terrifie men of good reſolutions, and much conſtancie. They do in all duty and humility proteſt before your Majeſty, and the Peeres of that moſt ho<g ref="char:EOLhyphen"/>nourable Houſe of Parliament, againſt all Lawes, or<g ref="char:EOLhyphen"/>ders, votes, reſoluitons, and determinations, as in themſelves null, and of no effect, which in their abſence ſince the twenty ſeventh of this inſtant moneth of De<g ref="char:EOLhyphen"/>cember, 1641 yeares, have already paſſed: as likewiſe againſt all ſuch as ſhall hereafter paſſe in that moſt ho<g ref="char:EOLhyphen"/>nourable Houſe, during the time of this their forced &amp;
+<pb n="5" facs="tcp:179502:6"/>violent abſence from the ſaid moſt Hon: Houſe, not denying: but if the abſenting of themſelves were wil<g ref="char:EOLhyphen"/>full and voluntary, that moſt honourable Houſe might proceed in all theſe premiſſes, their abſence for this their Proteſtation notwithſtanding.</p>
+            <p>And humbly beſeeching your moſt excellent Ma<g ref="char:EOLhyphen"/>jeſty to command the Clerk of that Houſe of Peeres to enter this their Petition and Proteſtation amongſt his Records.</p>
+            <closer>
+               <signed>They will ever pray to God to bleſſe and preſerve, &amp;c.
+<list>
+                     <item>Jo: Eborac.</item>
+                     <item>Thomas, Dureſme.</item>
+                     <item>Robert. Co: Lich.</item>
+                     <item>Joſ: Norwitch,</item>
+                     <item>Jo: Aſaphen.</item>
+                     <item>Guil. Ba: &amp; Wells.</item>
+                     <item>Geo: Hereford.</item>
+                     <item>Robert: Oxon.</item>
+                     <item>Ma: Ely.</item>
+                     <item>Godfr. Glouc.</item>
+                     <item>Jo. Peterburg.</item>
+                     <item>Mor: Llandaff.</item>
+                  </list>
+               </signed>
+            </closer>
+            <postscript>
+               <p>
+                  <g ref="char:V">Ʋ</g>era Copia,</p>
+               <closer>
+                  <signed>
+                     <hi>Jo: Brown</hi> Cleric. Parliament.</signed>
+               </closer>
+            </postscript>
+            <pb facs="tcp:179502:7"/>
+            <pb facs="tcp:179502:7"/>
+            <pb facs="tcp:179502:8"/>
+            <pb facs="tcp:179502:8" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
